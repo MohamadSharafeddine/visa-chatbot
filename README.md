@@ -37,6 +37,6 @@ Launch Jupyter Notebook:
 jupyter notebook
 ```
 
-Open the notebook file (`visa_chatbot.ipynb`) and run the last cell to interact with the chatbot.
+Open the notebook file (`visa_chatbot.ipynb`) and run all cells to interact with the chatbot.
 
 ---
