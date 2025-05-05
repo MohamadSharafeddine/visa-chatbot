@@ -18,7 +18,7 @@ cd visa-chatbot
 ### 2. Install Dependencies
 
 ```bash
-pip install notebook openai pycountry python-dotenv
+pip install notebook openai python-dotenv
 ```
 
 ### 3. Add Your OpenAI API Key
